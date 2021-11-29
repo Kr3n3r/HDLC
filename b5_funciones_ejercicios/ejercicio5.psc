@@ -13,8 +13,8 @@ funcion calcularMaxMin(array)
 	Escribir "El valor máximo es ", array[9];
 FinFuncion
 
-Funcion intercambiar(elemento1,elemento2)
-	definir i,j,aux Como Entero;
+Funcion intercambiar(elemento1,elemento2) //WHY?
+	definir aux Como Entero;
 	
 	aux<-elemento1;
 	elemento1<-elemento2;
